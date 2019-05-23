@@ -259,3 +259,5 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/FincaChat-Android/app/src/androidTest/java/com/example/fincachat
+/FincaChat-Android/app/src/test/java/com/example/fincachat
